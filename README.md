@@ -1,5 +1,4 @@
 # README #
-###Like TSHOP###
 
 ### How do I get set up? ###
 
@@ -15,8 +14,3 @@
 * Writing tests
 * Code review
 * Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
